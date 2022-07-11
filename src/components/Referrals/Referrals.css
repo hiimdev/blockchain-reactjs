@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;900&display=swap");
+@import url(//db.onlinewebfonts.com/c/9fbffe9c24e09e4fac70f87f5a76f558?family=Brinnan);
+
+.referrals-box {
+    width: 592px;
+    height: 865px;
+    margin: 0 auto;
+}
+
+.referrals-title {
+    width: 592px;
+    height: 91px;
+    margin-bottom: 19px;
+    padding: 0;
+    font-family: 'Brinnan';
+    font-size: 84px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.referrals-text-title {
+    width: 534px;
+    height: 59px;
+    text-align: center;
+    font-family: 'Brinnan';
+    margin: 0 auto;
+    font-size: 18px;
+    color: #77838F;
+}
+
+.link-coppy {
+    height: 124px;
+    width: 592px;
+}
+
+.your-link {
+    width: 166px;
+    height: 50px;
+    font-family: 'Brinnan';
+    color: #FFFFFF;
+    vertical-align: middle;
+    display: table-cell;
+    padding-left: 30px;
+}
+
+.link-left {
+    width: 359px;
+    height: 60px;
+    background: #0E0E0E;
+    border-radius: 12px;
+    float: left;
+    margin-top: 14px;
+    margin-left: 30px;
+
+}
+
+.link-right {
+    width: 158px;
+    height: 60px;
+    margin-top: 14px;
+    margin-left: 15px;
+    background: #000000;
+    border: 2px solid #33ACE0;
+    border-radius: 12px;
+    float: left;
+    cursor: pointer;
+}
+
+.coppy-referrals {
+    margin-top: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Brinnan';
+
+}
+
+.link-text {
+    font-family: 'Brinnan';
+    font-size: 18px;
+    color: #77838F;
+    margin: 20px 0 0 20px;
+
+}
+
+.referrals-line {
+    width: 530px;
+    height: 20px;
+    margin: 34px auto;
+    position: relative;
+}
+
+.line-option {
+    width: 240px;
+    border: 1px solid #474747;
+}
+
+.one {
+    float: left;
+    margin-top: 10px;
+}
+
+.two {
+    float: left;
+    margin-top: 10px;
+}
+
+.or {
+    width: 50px;
+    float: left;
+    text-align: center;
+    font-family: 'Brinnan';
+    color: #FFFFFF;
+}
+
+.referrals-icon {
+    width: 336px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.icon-center {
+    margin: 0 17px;
+}
+
+.referrals-there-bot {
+    width: 543px;
+    height: 310px;
+    background: #0E0E0E;
+    border-radius: 12px;
+    margin: 0 auto;
+
+}
+
+.earnings-ref {
+    width: 543px;
+    height: 100px;
+    display: flex;
+    border-bottom: 1px solid #1A1A1A;
+}
+
+.ref-avata {
+    width: 48px;
+    height: 48px;
+    margin: 20px 20px;
+}
+
+.text-earnings {
+   
+    height: 24px;
+    line-height: 19px;
+    font-family: 'Brinnan';
+    font-size: 16px;
+    margin-top: 35px;
+}
+.color-text-ref{
+    color: #169B00;
+    width: 109px;
+}
+.text-ref{
+    width: 324px;
+    color: #77838F;
+}
