@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f8fd985c.css",
+    "main.js": "./static/js/main.d72d4703.js",
+    "static/js/787.a8a1d5ea.chunk.js": "./static/js/787.a8a1d5ea.chunk.js",
+    "static/media/GridBase.png": "./static/media/GridBase.9c20a968f1dda74b6720.png",
+    "static/media/Path1.png": "./static/media/Path1.2786aa7392e71f57df01.png",
+    "static/media/USDC_Icon.png": "./static/media/USDC_Icon.b79b76584f4eae8a2926.png",
+    "static/media/ETH_Icon.png": "./static/media/ETH_Icon.0ccb3f318f04800fb9a7.png",
+    "static/media/BNB_Icon.png": "./static/media/BNB_Icon.d3b4eaab3493f0c70984.png",
+    "static/media/BUSD_Icon.png": "./static/media/BUSD_Icon.c2f3a31162a4a60ebcba.png",
+    "static/media/USDT_Icon.png": "./static/media/USDT_Icon.3f6fbc6f2cae46edec00.png",
+    "static/media/BTC_Icon.png": "./static/media/BTC_Icon.6f55b18a00329899ff9a.png",
+    "static/media/Path3.png": "./static/media/Path3.cfb9b87189318b322347.png",
+    "static/media/Path0.png": "./static/media/Path0.61d33a2fcab354089b2a.png",
+    "static/media/Path2.png": "./static/media/Path2.2a4f8ea22f2537b090a1.png",
+    "index.html": "./index.html",
+    "main.f8fd985c.css.map": "./static/css/main.f8fd985c.css.map",
+    "main.d72d4703.js.map": "./static/js/main.d72d4703.js.map",
+    "787.a8a1d5ea.chunk.js.map": "./static/js/787.a8a1d5ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8fd985c.css",
+    "static/js/main.d72d4703.js"
+  ]
+}
